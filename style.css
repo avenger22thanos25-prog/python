@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Example</title>
+
+    <style>
+        body {
+            background-color: lightblue;
+            text-align: center;
+            font-family: Arial;
+        }
+
+        h1 {
+            color: darkblue;
+        }
+
+        p {
+            color: green;
+            font-size: 20px;
+        }
+
+        button {
+            background-color: blue;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>My First CSS Program</h1>
+    <p>This is a paragraph styled using CSS.</p>
+    <button>Click Me</button>
+
+</body>
+</html>
